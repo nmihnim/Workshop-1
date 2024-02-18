@@ -1,6 +1,6 @@
 Introducing the e-SPBT (Electronic School Textbook Management) System:
 
-Designed and developed single-handedly, the e-SPBT system is a testament to innovation in textbook management tailored specifically for primary and secondary schools. With a core objective of streamlining operations, minimizing textbook losses, and providing insights into student borrowing eligibility, this project embodies efficiency and effectiveness.
+Designed and developed single-handedly, the e-SPBT system is a testament to innovation in textbook management tailored specifically for primary and secondary schools. With a core objective of streamlining operations, minimizing textbook losses, and providing insights into student borrowing eligibility, this project embodies efficiency and effectiveness. The system was developed in the year 2021.
 
 Crafted using Visual Studio and powered by XAMPP for seamless database access, e-SPBT utilizes MySQL and C++ programming language to deliver a robust and intuitive platform.
 
