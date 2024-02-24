@@ -1,5 +1,5 @@
 // e-SPBT workshop1.cpp 
-// Syakirah Hanim binti Zulkernain BITI S1G1
+// Syakirah Hanim BITI S1G1
 
 #include <iostream>
 #include <string>
